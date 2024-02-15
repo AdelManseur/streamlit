@@ -2,5 +2,4 @@ streamlit
 streamlit_option_menu
 firebase_admin
 langchain
-openai
 python==3.12.2
