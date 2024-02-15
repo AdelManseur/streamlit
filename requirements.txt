@@ -1,3 +1,6 @@
 streamlit
 streamlit_option_menu
 firebase_admin
+langchain
+openai
+python
